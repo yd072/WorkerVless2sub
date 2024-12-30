@@ -1,4 +1,4 @@
-name: Obfuscate and Commit
+name: worker
 
 on:
     #push:
